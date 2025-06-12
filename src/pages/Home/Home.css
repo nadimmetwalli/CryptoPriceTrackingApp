@@ -110,4 +110,7 @@
     .table-layout{
         font-size: 13px;
     }
+    .hero form input{
+        width: 100px;
+    }
 }
